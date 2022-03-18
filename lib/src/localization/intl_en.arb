@@ -1,0 +1,6 @@
+{
+  "appTitle": "web_carousel",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
