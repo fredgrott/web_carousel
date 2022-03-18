@@ -18,7 +18,7 @@ Mobile:
 
 Here is the Medium Article via the friend free link:
 
-[article]()
+[article](https://fredgrott.medium.com/a-flutter-web-banner-the-right-way-6537f5624307?sk=a86811c87895b51df541fdf96bf29405)
 
 Book stuff is at my GitHub IO website:
 
